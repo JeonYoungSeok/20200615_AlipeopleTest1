@@ -1,4 +1,6 @@
 {
+    "name": "ysjeon/alipeople-test-proj-1",
+    "description": "alipeople test project 1",
     "require": {
         "guzzlehttp/guzzle": "^6.5"
     },
